@@ -1,0 +1,9 @@
+.primo {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(26, 15, 46, 0.85), rgba(15, 12, 30, 0.95)), url('1000109402.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px 80px;
+}
