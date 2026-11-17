@@ -84,20 +84,29 @@
 }
 
 .small-title {
-  color: #8b7864;
-  font-size: 13px;
-  font-weight: bold;
-  letter-spacing: 2px;
+    color: #8b7864;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .hero h1 {
-  color: var(--dark-text);
-  font-size: 60px;
-  margin: 10px 0;
+    color: var(--dark-text);
+    font-size: 60px;
+    margin: 10px 0;
 }
 
 .hero-text p {
-  color: #657277;
-  font-size: 18px;
-  line-height: 1.7;
+    color: #657277;
+    font-size: 18px;
+    line-height: 1.7;
 }
+
+
+footer {
+    padding: 25px;
+    background-color: var(--light-steel);
+    color: white;
+    text-align: center;
+}
+
